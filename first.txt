@@ -1,6 +1,6 @@
 This is my FIRST line
 
-This is my second line
+This is my second
 
   This is my third line   
 
